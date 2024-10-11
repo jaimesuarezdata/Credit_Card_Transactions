@@ -126,7 +126,7 @@ Credit cards are predominantly used on Sundays, Mondays, and Saturdays, with the
 
 Credit Card usage in the U.S. may increase from March to June due to tax refunds, travel, weddings, and spring-related sales. Additionaly, during December when there is a significant boost in credit card use due to holiday shopping, travel, and celebrations.
 
-Both periods coincide with cultural and economic events that encourage higher levels of consumer spending
+Both periods coincide with cultural and economic events that encourage higher levels of consumer spending.
 <p>&nbsp;  </p>
 
 <img src="Images/Transaction count by Category.png" alt="Transaction count by Category" style="width: 45%; display: inline-block;"> <img src="Images/Total Transactions by Category.png" alt="Total Transactions by Category" style="width: 45%; display: inline-block;">
@@ -242,8 +242,8 @@ The fraudulent transactions analysis revealed key characteristics:
 
 The model used for fraud detection is a Decision Tree, which delivered the following performance:
 
-*Accuracy: 99.7%
-*AUC (Area Under the Curve): 0.88
+* Accuracy: 99.7%
+* AUC (Area Under the Curve): 0.88
 
 While the model’s high accuracy reflects its ability to correctly classify the majority non-fraudulent class, the AUC of 0.88 highlights its strong capability to distinguish between fraudulent and non-fraudulent transactions, which is essential for effective fraud detection in such imbalanced data.
 
@@ -255,6 +255,6 @@ While the model’s high accuracy reflects its ability to correctly classify the
 By identifying key differences in fraudulent transactions, such as the tendency for smaller amounts and specific time frames, the model provides actionable insights to help financial institutions strengthen fraud detection and safeguard consumer transactions.
 
 ### <span style="color:blue">Links</span>
-[Jupyter Notebook]()
-[Data](https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset/data)
+* [Jupyter Notebook]()
+* [Data](https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset/data)
 
