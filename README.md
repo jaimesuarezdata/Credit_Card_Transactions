@@ -6,7 +6,7 @@
 
 <p>&nbsp;  </p>
 
-This repository contains a project to analyze credit card transactions and predict fraudulent transactions using machine learning. The project includes data preprocessing, exploratory analysis, and the development of a Decision Tree model. Model performance is evaluated using accuracy and other key metrics, with feature importance analysis to identify factors contributing to fraud.
+This project analyzes credit card transactions to develop a machine learning model for fraud detection. The project includes data preprocessing, Exploratory Data Analysis, and the development of a Decision Tree model. Model performance is evaluated using accuracy and other key metrics, with feature importance analysis to identify factors contributing to fraud.
 
 <p>&nbsp;  </p>
 
