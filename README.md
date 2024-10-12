@@ -255,6 +255,6 @@ While the model’s high accuracy reflects its ability to correctly classify the
 By identifying key differences in fraudulent transactions, such as the tendency for smaller amounts and specific time frames, the model provides actionable insights to help financial institutions strengthen fraud detection and safeguard consumer transactions.
 
 ### <span style="color:blue">Links</span>
-* [Jupyter Notebook]()
+* [Jupyter Notebook](http://localhost:8888/notebooks/Data%20Projects/Credit%20Card%20Transactions/Scripts/Credit_Card_Fraud_Analysis%20(JN).ipynb)
 * [Data](https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset/data)
 
